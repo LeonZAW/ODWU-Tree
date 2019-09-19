@@ -8,4 +8,4 @@ Subject: Reinforcement Learning Based on Markov Decision Process
 + Looked up related papers and materials to gain required knowledge
 + Mastered the reinforcement learning to build a tree with high complexity of computing
 + Innovated the existing reinforcement learning algorithm to improve the time-consuming part of the algorithm, and examined the efficiency of new algorithm
-+ Recorded and summarized the result of the program, and wrote the paper (accepted by ICTAI 2017)
++ Recorded and summarized the result of the program, and wrote the [paper](https://ieeexplore.ieee.org/abstract/document/8371987)
